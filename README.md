@@ -6,7 +6,7 @@
 install.packages("devtools")
 library(devtools)
 
-source_url("https://raw.githubusercontent.com/leapigufpb/FuzzyRules/main/srcR/FuzzyRules.R")
+source_url("https://raw.githubusercontent.com/leapigufpb/FuzzyRulesFiles/refs/heads/main/srcR/FuzzyRules.R")
 ```
 
 ---
